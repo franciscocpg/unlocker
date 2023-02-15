@@ -31,7 +31,7 @@ import tarfile
 import zipfile
 import time
 
-ARCH = 'x86'
+ARCH = 'universal'
 
 try:
     # For Python 3.0 and later
